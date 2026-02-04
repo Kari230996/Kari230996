@@ -49,5 +49,3 @@ I have hands-on experience with Django and FastAPI, databases, background tasks,
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kari230996&show_icons=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Kari230996)
