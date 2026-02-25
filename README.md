@@ -38,7 +38,7 @@ I have hands-on experience with Django and FastAPI, databases, background tasks,
 ---
 
 ### 📌 Experience
-- **Python Backend Developer** — 9 months of practical experience  
+- **Python Backend Developer** — 10 months of practical experience  
 - Developed pet and test projects with real backend logic and APIs  
 
 ---
