@@ -1,6 +1,6 @@
 # Hi, I'm Karina 👋  
 
-Beginner Python Backend Developer with 9 months of experience
+Beginner Python Backend Developer with 10 months of experience
 
 I develop backend applications and REST APIs using Python.  
 I have hands-on experience with Django and FastAPI, databases, background tasks, and containerized environments.
